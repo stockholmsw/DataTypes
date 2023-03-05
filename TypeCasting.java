@@ -18,5 +18,6 @@ public class TypeCasting {
         double ucuncuDeger = 36;
         birinciDeger = (int) ikinciDeger;
         System.out.println(birinciDeger);
+        // 
     }
 }
