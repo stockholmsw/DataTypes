@@ -1,6 +1,6 @@
 package dataTypes;
 
-public class TypeCasting {
+public class Casting {
     public static void main(String[] args) {
         int number = 15;
         double commaNumber = 22d;
@@ -18,6 +18,6 @@ public class TypeCasting {
         double ucuncuDeger = 36;
         birinciDeger = (int) ikinciDeger;
         System.out.println(birinciDeger);
-        // 
+        //
     }
 }
